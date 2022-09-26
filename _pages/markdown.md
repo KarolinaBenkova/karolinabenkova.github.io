@@ -1,13 +1,15 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Contact"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+If you have any questions about my research, feel free to email me:
+kbenkova[at]ed.ac.uk
 
-## Locations of key files/directories
+<!-- ## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -199,4 +201,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
