@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate of the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at [Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) in Edinburgh, Scotland. My research concerns PDE-constrained optimization applied to problems in mathematical biology. My supervisors are [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/) from Heriot-Watt University and [John Pearson](https://sites.google.com/site/johnpearsonmaths/home) from the University of Edinburgh.
+I'm a PhD candidate involved in the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at [Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) in Edinburgh, Scotland. My research concerns PDE-constrained optimization applied to problems in mathematical biology. My supervisors are [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/) from Heriot-Watt University and [John Pearson](https://sites.google.com/site/johnpearsonmaths/home) from the University of Edinburgh.
+
 
 
 
