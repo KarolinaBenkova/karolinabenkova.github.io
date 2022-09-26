@@ -1,10 +1,16 @@
 ---
+layout: archive
+title: ""
+permalink: /teaching/
+author_profile: true
+---
+<!-- ---
 layout: page
 permalink: /teaching/
 title: Teaching
 tags: [teaching]
-comments: false
----
+comments: false -->
+<!-- --- -->
 Teaching Assistant at Heriot-Watt University
 * **2022-2023**
   * *Calculus A* - Sem1, first year undergraduate course
