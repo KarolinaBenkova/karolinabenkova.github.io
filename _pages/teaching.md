@@ -15,10 +15,14 @@ Teaching Assistant at Heriot-Watt University
 * **2022-2023**
   * *Calculus A* - Sem1, first year undergraduate course
   * *Optimization* - Sem1, first year undergraduate course
+  * *Calculus B* - Sem2, first year undergraduate course
 
 Tutor at The University of Edinburgh
 * **2022-2023**
   * *Numerical Linear Algebra* - Sem1, postgraduate course
+  * *Proofs and Problem Solving* - Sem2, first year undergraduate course
+  * *Applied Dynamical Systems* - Sem2, postgraduate course
+
 * **2021-2022**
   * *Introduction to Linear Algebra* - Sem1, first year undergraduate course
   * *Introduction to Data Science* - Sem1, first year undergraduate course
