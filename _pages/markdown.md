@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: ":mailbox_with_no_mail: Contact"
 author_profile: true
 # redirect_from: 
 #   - /md/
