@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karolina Benkova's <br> Academic site"
+title                    : "Karolina Benkova" #'s <br> Academic site"
 title_separator          : "-"
 name                     : &name "Karolina Benkova"
 description              : &description "Welcome!"
