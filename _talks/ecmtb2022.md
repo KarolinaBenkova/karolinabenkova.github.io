@@ -8,4 +8,4 @@ date: 2022-09-20
 location: "Heidelberg, Germany"
 ---
 
-An excellent European conference for research in mathematical and theoretical biology. I gave a talk in the minisymposium ``Recent Progress and Open Frontiers in Turing's Theory of Morphogenesis''.
+An excellent European conference for research in mathematical and theoretical biology. I gave a talk in the minisymposium ``Recent Progress and Open Frontiers in Turing's Theory of Morphogenesis''. I would like to thank ESMTB for supporting me in my travel to Heidelberg.

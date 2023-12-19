@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD candidate involved in the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/){:target="_blank"} at [Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/){:target="_blank"} in Edinburgh, Scotland. My research concerns PDE-constrained optimization applied to problems in mathematical biology. My supervisors are [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/){:target="_blank"} from Heriot-Watt University and [John Pearson](https://sites.google.com/site/johnpearsonmaths/home){:target="_blank"} from the University of Edinburgh.
 
-I'm currently undertaking an internship at [Altos Labs](https://altoslabs.com/){:target="_blank"} in Cambridge.
+<!-- I'm currently undertaking an internship at [Altos Labs](https://altoslabs.com/){:target="_blank"} in Cambridge. -->
 
 
 

@@ -11,11 +11,6 @@ title: Teaching
 tags: [teaching]
 comments: false -->
 <!-- --- -->
-## Tutor at Heriot-Watt University
-* **2022-2023**
-  * *Calculus A* - Sem1, first-year undergraduate course
-  * *Optimization* - Sem1, third-year undergraduate course
-  * *Calculus B* - Sem2, first-year undergraduate course
 
 ## Tutor at The University of Edinburgh
 * **2022-2023**
@@ -30,3 +25,9 @@ comments: false -->
   * *Calculus and its Applications* - Sem2, first-year undergraduate course
   * *Proofs and Problem Solving* - Sem2, first-year undergraduate course
   * *Mathematics in Action* - Sem2, postgraduate course
+
+## Tutor at Heriot-Watt University
+* **2022-2023**
+  * *Calculus A* - Sem1, first-year undergraduate course
+  * *Optimization* - Sem1, third-year undergraduate course
+  * *Calculus B* - Sem2, first-year undergraduate course
