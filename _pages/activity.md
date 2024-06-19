@@ -12,11 +12,12 @@ redirect_from:
 * *Website workshop for MAC-MIGS*, June 2023 - organiser. The purpose of the workshop was to introduce fellow PhD colleagues to building an academic website efficiently using GitHub Pages.
 
 ### Talks and conferences
+* :singapore: *SciCADE 2024* -  International Conference on Scientific Computation and Differential Equations, National University of Singapore, Singapore, July 2024 (upcoming)
 
 <!-- **Upcoming** -->
 
 <!-- **Past** -->
-* :slovakia: *Seminar on Qualitative Theory of Differential Equations* - Department of Applied Mathematics and Statistics, Faculty of Mathematics, Physics and Informatics, Comenius University. Bratislava, Slovakia, December 2023
+* :slovakia: *Seminar on Qualitative Theory of Differential Equations* - Department of Applied Mathematics and Statistics, Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia, December 2023
 * :portugal: *ENUMATH 2023* - The European Conference on Numerical Mathematics and Advanced Applications, Instituto Superior Técnico, Lisbon, Portugal, September 2023
 * :uk: *The 29th Biennial Numerical Analysis Conference* - University of Strathclyde, Glasgow, UK, June 2023
 * :uk: *Edinburgh Mathematical Biology Conference* - Separation of Timescales in Biology, The Maxwell Institute of Mathematical Sciences, Edinburgh, UK, May 2023
@@ -25,12 +26,14 @@ redirect_from:
 * :iceland: *SciCADE 2022* -  International Conference on Scientific Computation and Differential Equations, University of Iceland, Reykjavík, Iceland, July 2022
 
 ### Workshops
+* :fr: *Finite Elements for Cell and Tissue Morphogenesis 2024*, Université franco-allemande, Fréjus, France, September 2024 (upcoming)
 * :uk: *Recent Advances in Numerical Linear Algebra for PDEs, Optimization and Data Assimilation*, ICMS, Edinburgh, UK, April 2022
 * :uk: *Deep Learning and Inverse Problems*, Newton Institute for Mathematical Sciences, Cambridge, UK, September 2021
 
 ### Research Schools
+* :singapore: *IMS Summer School in Conjunction with SciCADE: Scientific Computation and Differential Equations*, National University of Singapore and Institute for Mathematical Sciences, Singapore, July 2024 (upcoming)
 * :fr: *Domain Decomposition for Optimal Control Problems*, CIRM, Marseille, France, September 2022
 
 ### Industry interactions
 * :uk: *Internship (Computational Biology)*, Altos Labs, Cambridge, UK, July - October 2023
-* :fr: *Spring into Quant Finance*, G-Research, Nice, April 2023
+* :fr: *Spring into Quant Finance*, G-Research, Nice, France, April 2023
