@@ -12,11 +12,7 @@ redirect_from:
 * *Website workshop for MAC-MIGS*, June 2023 - organiser. The purpose of the workshop was to introduce fellow PhD colleagues to building an academic website efficiently using GitHub Pages.
 
 ### Talks and conferences
-* :singapore: *SciCADE 2024* -  International Conference on Scientific Computation and Differential Equations, National University of Singapore, Singapore, July 2024 (upcoming)
-
-<!-- **Upcoming** -->
-
-<!-- **Past** -->
+* :singapore: *SciCADE 2024* -  International Conference on Scientific Computation and Differential Equations, National University of Singapore, Singapore, July 2024 
 * :slovakia: *Seminar on Qualitative Theory of Differential Equations* - Department of Applied Mathematics and Statistics, Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia, December 2023
 * :portugal: *ENUMATH 2023* - The European Conference on Numerical Mathematics and Advanced Applications, Instituto Superior Técnico, Lisbon, Portugal, September 2023
 * :uk: *The 29th Biennial Numerical Analysis Conference* - University of Strathclyde, Glasgow, UK, June 2023
@@ -31,7 +27,7 @@ redirect_from:
 * :uk: *Deep Learning and Inverse Problems*, Newton Institute for Mathematical Sciences, Cambridge, UK, September 2021
 
 ### Research Schools
-* :singapore: *IMS Summer School in Conjunction with SciCADE: Scientific Computation and Differential Equations*, National University of Singapore and Institute for Mathematical Sciences, Singapore, July 2024 (upcoming)
+* :singapore: *IMS Summer School in Conjunction with SciCADE: Scientific Computation and Differential Equations*, National University of Singapore and Institute for Mathematical Sciences, Singapore, July 2024
 * :fr: *Domain Decomposition for Optimal Control Problems*, CIRM, Marseille, France, September 2022
 
 ### Industry interactions
