@@ -13,10 +13,10 @@ comments: false -->
 <!-- --- -->
 
 ## Tutor at The University of Edinburgh
-* **2023-2024**
+* **2024-2025**
   * *Applied Stochastic Differential Equations* - Sem1, postgraduate course
   * *Honours Differential Equations - Skills* - Sem1, Year 3 course
-
+  * *Mathematical Biology* - Sem1, Year 4 course
 
 * **2023-2024**
   * *MathsBase* - Sem2, support for Year 1-2 courses
