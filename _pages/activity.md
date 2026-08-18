@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ### Local events
-* *Mathematical Biology Research Group at Maxwell Institute* - co-organiser. The seminars are taking place biweekly during Semester 2 at the Maxwell Institute and mostly involve presentations from PhD students from the University of Edinburgh and Heriot-Watt University.
+* *Mathematical Biology Research Group at Maxwell Institute* - co-organiser. The seminars were taking place biweekly at the Maxwell Institute and mostly involved presentations from PhD students from the University of Edinburgh and Heriot-Watt University.
 * *Website workshop for MAC-MIGS*, June 2023 - organiser. The purpose of the workshop was to introduce fellow PhD colleagues to building an academic website efficiently using GitHub Pages.
 
 ### Talks and conferences
+* :de: (upcoming) *Decoding Cellular Complexity: Single Cell Biology in the Era of AI* - Cell Press in partnership with Helmholtz Munich, Munich, Germany, December 2026
 * :singapore: *SciCADE 2024* -  International Conference on Scientific Computation and Differential Equations, National University of Singapore, Singapore, July 2024 
 * :slovakia: *Seminar on Qualitative Theory of Differential Equations* - Department of Applied Mathematics and Statistics, Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia, December 2023
 * :portugal: *ENUMATH 2023* - The European Conference on Numerical Mathematics and Advanced Applications, Instituto Superior Técnico, Lisbon, Portugal, September 2023
@@ -22,11 +23,12 @@ redirect_from:
 * :iceland: *SciCADE 2022* -  International Conference on Scientific Computation and Differential Equations, University of Iceland, Reykjavík, Iceland, July 2022
 
 ### Workshops
-* :fr: *Finite Elements for Cell and Tissue Morphogenesis 2024*, Université franco-allemande, Fréjus, France, September 2024 (upcoming)
+* :fr: *Finite Elements for Cell and Tissue Morphogenesis 2024*, Université franco-allemande, Fréjus, France, September 2024
 * :uk: *Recent Advances in Numerical Linear Algebra for PDEs, Optimization and Data Assimilation*, ICMS, Edinburgh, UK, April 2022
 * :uk: *Deep Learning and Inverse Problems*, Newton Institute for Mathematical Sciences, Cambridge, UK, September 2021
 
 ### Research Schools
+* :fr: *Mathematical Foundations for Spatial Omics in oncology*, CIRM, Marseille, France, July 2026
 * :singapore: *IMS Summer School in Conjunction with SciCADE: Scientific Computation and Differential Equations*, National University of Singapore and Institute for Mathematical Sciences, Singapore, July 2024
 * :fr: *Domain Decomposition for Optimal Control Problems*, CIRM, Marseille, France, September 2022
 

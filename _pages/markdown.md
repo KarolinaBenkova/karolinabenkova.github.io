@@ -7,4 +7,4 @@ author_profile: true
 #   - /markdown.html
 ---
 If you have any questions about my research, feel free to email me:
-kbenkova(at)ed.ac.uk
+karolina.benkova(at)icr.ac.uk
